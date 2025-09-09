@@ -6,17 +6,17 @@ This repository contains the design, CAD models, and supporting resources for a 
 ---
 
 ## 📂 Repository Structure
-├── cad/ # CAD parts and assemblies
-│ ├── iris.SLDASM                          
-│ ├── my assembly drilling 2.SLDASM
-│ ├── my drill 3.SLDPRT
-│ ├── my drill covering 1.SLDPRT
-│ ├── my drill support 1.SLDPRT
-│ └── my rotating storage.SLDPRT
-├── docs/ # Technical documentation (to be added)
-├── simulations/ # Simulation files and results
-├── videos/ # Demo videos and CAD animations
-└── src/ # Calculation scripts or helpers
+|── cad/ # CAD parts and assemblies            
+│     ├── iris.SLDASM  
+│     ├── my assembly drilling 2.SLDASM  
+│     ├── my drill 3.SLDPRT  
+│     ├── my drill covering 1.SLDPRT  
+│     ├── my drill support 1.SLDPRT  
+│     └── my rotating storage.SLDPRT  
+|── docs/ # Technical documentation (to be added)  
+|── simulations/ # Simulation files and results  
+|── videos/ # Demo videos and CAD animations  
+|── src/ # Calculation scripts or helpers  
 
 
 ---
