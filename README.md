@@ -6,9 +6,9 @@ This repository contains the design, CAD models, and supporting resources for a 
 ---
 
 ## 📂 Repository Structure
-├── cad/ # CAD parts and assemblies
-│ ├── iris.SLDASM
-│ ├── my assembly drilling 2.SLDASM
+├── cad/ # CAD parts and assemblies                                                
+│ ├── iris.SLDASM                                            
+│ ├── my assembly drilling 2.SLDASM                    
 │ ├── my drill 3.SLDPRT
 │ ├── my drill covering 1.SLDPRT
 │ ├── my drill support 1.SLDPRT
